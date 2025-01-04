@@ -13,9 +13,13 @@ body {
     height: 100vh;
 }
 
-.text {
-    color: white
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    height: 100%;
 }
+
 .avatar {
     display: flex;
     justify-content: center;
@@ -112,10 +116,11 @@ body {
 }
 
 .description {
-    font-size: 0.9rem;
-    color: rgba(255, 255, 255, 0.8); 
+    font-size: 1rem;
+    color: #ffffff; 
     margin-top: 5px;
     text-align: center;
+    font-weight: bold
 }
 
 .avatar img {
