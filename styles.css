@@ -138,13 +138,13 @@ html, body {
     padding: 10px;
     border-radius: 5px;
     text-align: center;
-    margin-top: 10px auto;
+    margin-top: auto;
 }
 
 .footer {
     width: 100%;
     text-align: center;
-    margin-top: auto;
+    margin-top: 10px;
     padding: 20px;
 }
 
