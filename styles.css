@@ -189,14 +189,14 @@ html, body {
 
 .accordion-button {
     background: #701b9a !important;
-    color: black !important;
+    color: white !important;
     border-radius: 5px;
     text-align: center;
 }
 
 .accordion-button:not(.collapsed) {
     background: #701b9a !important;
-    color: black !important;
+    color: white !important;
     box-shadow: none;
 }
 
