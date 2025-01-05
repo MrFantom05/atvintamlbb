@@ -214,3 +214,8 @@ html, body {
 .select-number, .select-number2, .select-number3, .select-name {
     user-select: all;
 }
+
+.help {
+    color: white;
+    font-size: 0.5rem;
+}
