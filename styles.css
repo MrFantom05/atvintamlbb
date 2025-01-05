@@ -209,6 +209,6 @@ html, body {
     color: white;
 }
 
-.select-number, .select-name {
+.select-number, .select-number2, .select-number3, .select-name {
     user-select: all;
 }
