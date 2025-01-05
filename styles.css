@@ -94,6 +94,15 @@ html, body {
     background-color: #005e5e;
 }
 
+.btn-donation {
+    background-color: #ff9900;
+    border-color: #ff9900;
+}
+
+.btn-container .btn-donation:hover {
+    background-color: #e68a00;
+}
+
 .btn-container {
     display: flex;
     flex-direction: column;
@@ -148,23 +157,6 @@ html, body {
     margin-top: 10px;
     padding: 20px;
     min-height: 100px
-}
-
-.btn-donation {
-    background-color: #ff9900;
-    border-color: #ff9900;
-    color: white;
-    font-size: 18px;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
-    display: block;
-    width: 250px;
-    margin: 20px auto 0;
-}
-
-.btn-donation:hover {
-    background-color: #e68a00;
 }
 
 .container .btn:hover {
