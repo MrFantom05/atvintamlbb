@@ -97,6 +97,14 @@ html, body {
 .btn-donation {
     background-color: #ff9900;
     border-color: #ff9900;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    display: block;
+    width: 250px;
+    margin: 20px auto 0;
 }
 
 .btn-container .btn-donation:hover {
