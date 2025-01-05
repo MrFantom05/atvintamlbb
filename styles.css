@@ -208,3 +208,7 @@ html, body {
     background: rgba(0, 0, 0, 0.7) !important;
     color: white;
 }
+
+.select-number, .select-name {
+    user-select: all;
+}
