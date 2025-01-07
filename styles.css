@@ -43,7 +43,6 @@ html, body {
 
 .container .btn-tiktok {
     background-color: #000000;
-    border-color: #000000;
 }
 
 .container .btn-tiktok:hover {
@@ -52,7 +51,6 @@ html, body {
 
 .container .btn-tgchannel {
     background-color: #007bff;
-    border-color: #007bff;
 }
 
 .container .btn-tgchannel:hover {
@@ -60,7 +58,6 @@ html, body {
 }
 .container .btn-chat {
     background-color: #0752a1;
-    border-color: #0752a1;
 }
 
 .container .btn-chat:hover {
@@ -69,7 +66,6 @@ html, body {
 
 .container .btn-youtube {
     background-color: #dc3545;
-    border-color: #dc3545;
 }
 
 .container .btn-youtube:hover {
@@ -78,7 +74,6 @@ html, body {
 
 .container .btn-twitch {
     background-color: #6441a5;
-    border-color: #6441a5;
 }
 
 .container .btn-twitch:hover {
@@ -87,7 +82,6 @@ html, body {
 
 .container .btn-operation {
     background-color: #007474;
-    border-color: #007474;
 }
 
 .container .btn-operation:hover {
@@ -96,7 +90,6 @@ html, body {
 
 .btn-donation {
     background-color: #ff9900;
-    border-color: #ff9900;
     color: white;
     font-size: 18px;
     padding: 10px 20px;
