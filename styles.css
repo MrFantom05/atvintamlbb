@@ -218,3 +218,25 @@ html, body {
     color: red;
     font-size: 1rem;
 }
+
+.snowflakes{
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+.snowflake{
+    position: absolute;
+    top: -10px;
+    font-size: 16px;
+    color: white;
+    animation: fall 10s linear infinite;
+}
+@keyframes fall {
+    0% {transform: translateY(-100px)}
+    100% {transform: translateY(95vh)}
+
+}
